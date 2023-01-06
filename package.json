@@ -1,0 +1,24 @@
+{
+  "name": "trailerexib",
+  "private": true,
+  "version": "0.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "gitart-scroll-carousel": "^1.2.4",
+    "sass": "^1.57.1",
+    "vue": "^3.2.45",
+    "vue3-carousel": "^0.2.9"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.0.0"
+  }
+}
