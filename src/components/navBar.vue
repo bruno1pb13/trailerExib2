@@ -1,7 +1,7 @@
 <template>
 
 
-<div class="w-[4vw] h-[100vh] py-4 flex flex-col justify-between items-center backdrop-blur-[2px] fixed" style="background-color: rgba(0, 0, 0, 0.5)">
+<div class="w-[4vw] h-[100vh] py-4 flex flex-col justify-between items-center backdrop-blur-[4px] fixed" style="background-color: rgba(0, 0, 0, 0.5)">
             <div class="flex flex-col items-center gap-3">
                 <a href="/" class="p-0 m-0 ">
                     <img class="cursor-pointer max-w-2 h-10 p-0 m-0 hover:scale-[1.2] duration-300"
@@ -38,7 +38,7 @@
                     </div>
                 </a>
                 <a class="cursor-pointer hover:scale-[1.2] duration-300">
-                    <img class="max-w-2 h-14 p-0 m-0" style="filter:invert()" src="../assets/noun-japan-4903572.svg"
+                    <img class="max-w-2 h-10 p-0 m-0" style="filter:invert()" src="../assets/noun-japan-4903572.svg"
                         alt="Tv Shows"  data-tooltip-target="tooltip-anime" data-tooltip-placement="right"/>
                     <div id="tooltip-anime" role="tooltip"
                         class="absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">
